@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "palkkalaskuri", "palkkalaskuri\palkkalaskuri.csproj", "{698DA28A-B98D-4AE8-A1A1-4D0EA98F42A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palkkalaskuriTest", "palkkalaskuriTest\palkkalaskuriTest.csproj", "{27D563EC-AC48-4740-898F-001AB0113F95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{698DA28A-B98D-4AE8-A1A1-4D0EA98F42A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698DA28A-B98D-4AE8-A1A1-4D0EA98F42A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698DA28A-B98D-4AE8-A1A1-4D0EA98F42A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698DA28A-B98D-4AE8-A1A1-4D0EA98F42A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D563EC-AC48-4740-898F-001AB0113F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D563EC-AC48-4740-898F-001AB0113F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D563EC-AC48-4740-898F-001AB0113F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D563EC-AC48-4740-898F-001AB0113F95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37BEDDE3-B9AD-4055-975D-6A08EE797BD2}
+	EndGlobalSection
+EndGlobal
